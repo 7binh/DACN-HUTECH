@@ -1,0 +1,53 @@
+.search-filter {
+    margin-top: -70px;
+
+}
+
+    .search-filter .filter-box {
+        background-color: #fff;
+        background-image: url(/images/UploadImages/san-pham/bg-search-filter-2.png);
+        /* background-color: #e8cb2e; */
+        background-repeat: no-repeat;
+        background-size: 25%;
+        padding: 30px 15px;
+        position: relative;
+        z-index: 999;
+        box-shadow: 3px 0 29px rgba(0, 0, 0, 0.26);
+        border-radius: 30px;
+        overflow: hidden;
+        border: 2px solid #e8cb2e;
+    }
+
+        .search-filter .filter-box .filter-text {
+            color: #fff;
+            font-size: 33px;
+            font-weight: 600;
+            text-transform: capitalize;
+            text-align: center;
+            padding-top: 22px;
+            padding-bottom: 21px;
+            margin-bottom: 0;
+        }
+
+        .search-filter .filter-box .filter-content {
+        }
+        .search-filter .filter-box .filter-content .form-group > select{
+            border: 2px solid #e8cb2e;
+            border-radius: 100rem;
+        }
+        .search-filter .filter-box .filter-content .form-group > input{
+            border: 2px solid #e8cb2e;
+            border-radius: 100rem;
+        }
+
+
+
+            .search-filter .filter-box .filter-content .form-group {
+                margin-bottom: 0px;
+                padding-top: 7px;
+                padding-bottom: 7px;
+            }
+
+            .search-filter .filter-box .filter-content .btn-default {
+                margin: 32px 0px 0px 0px;
+            }

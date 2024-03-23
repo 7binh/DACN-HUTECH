@@ -1,0 +1,107 @@
+﻿.title-header {
+    background-color: #e4c72e;
+    color: #fff;
+    padding: 9px 15px;
+    font-size: 17px;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+
+.checkout-item {
+    margin-bottom: 25px;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.checkout-item-info {
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+
+.checkout-content {
+    padding: 10px 15px;
+    background-color: #f3f3f3;
+}
+
+    .checkout-content .form-group label {
+        font-weight: 600;
+    }
+
+    .checkout-content .nav-tabs {
+        border-bottom-color: #e4c72e;
+    }
+
+        .checkout-content .nav-tabs .nav-link {
+            color: #3d464d;
+            max-width: 150px;
+            text-align: center;
+        }
+
+            .checkout-content .nav-tabs .nav-link.active {
+                margin-bottom: -1px;
+                color: #ffffff;
+                background-color: #e4c72e;
+                border-color: #e4c72e;
+                border-radius: 15px 15px 0 0;
+            }
+
+    .checkout-content .tab-content {
+        padding: 15px;
+        border: 1px solid #e4c72e;
+        border-top: none;
+        border-radius: 0 0 20px 20px;
+    }
+
+    .checkout-content .custom-control-label {
+        padding-bottom: 24px;
+    }
+
+        .checkout-content .custom-control-label::before, .custom-control-label::after {
+            transform: translateX(-50%);
+            left: 50%;
+            bottom: 2px;
+            top: auto;
+        }
+
+    .checkout-content .custom-radio .custom-control-input:checked ~ .custom-control-label::before {
+        background-color: #fff;
+    }
+
+    .checkout-content .custom-radio .custom-control-input:checked ~ .custom-control-label::after {
+        background-image: none;
+        background-color: #e4c72e;
+        border-radius: 50%;
+        width: 6px;
+        height: 6px;
+        bottom: 7px;
+    }
+    .checkout-content .hasDatepicker {
+        background-color: #fff;
+    }
+    .checkout-content .checkout-warning-text {
+        font-weight: 600;
+        text-transform: capitalize;
+        text-align: center;
+    }
+
+    .checkout-content .checkout-cart .item {
+        margin-bottom: 10px;
+        border-bottom: 1px solid #ced4da;
+        padding-bottom: 10px;
+    }
+        .checkout-content .checkout-cart .item:last-child {
+            height: 40px;
+            line-height: 30px;
+            border-bottom: none;
+        }
+        .checkout-content .checkout-cart .item .quantity {
+            margin-right: 5px;
+            font-size: 12px;
+            font-weight: 600;
+        }
+        .checkout-content .checkout-cart .item .total{
+            text-align: right;
+            font-size: 18px;
+            color: #e4c72e;
+        }

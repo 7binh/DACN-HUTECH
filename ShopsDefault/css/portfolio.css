@@ -1,0 +1,103 @@
+﻿.prd-protfolio .nav-tabs {
+    justify-content: center;
+    border: none;
+    margin-top: 20px;
+}
+
+    .prd-protfolio .nav-tabs .nav-item {
+        margin-bottom: 15px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .prd-protfolio .nav-tabs .nav-link {
+        position: relative;
+        padding: 0;
+        border: none;
+        font-weight: bold;
+        color: #3d464d;
+        text-transform: uppercase;
+        font-size: 16px;
+    }
+
+        .prd-protfolio .nav-tabs .nav-link.active, .nav-tabs .nav-link:hover {
+            border: none;
+            color: #3d464d;
+        }
+
+            .prd-protfolio .nav-tabs .nav-link.active:before, .nav-tabs .nav-link:hover:before {
+                content: "";
+                background-color: #e8cb2e;
+                height: 3px;
+                width: 100%;
+                position: absolute;
+                left: 0;
+                bottom: -8px;
+                transform: scale3d(1,1,1);
+                transition: transform .3s cubic-bezier(.4,0,.2,1);
+            }
+
+.prd-protfolio .item {
+    text-align: center;
+    padding: 20px;
+    border: 2px solid #e9eff2;
+    margin-top: 30px;
+    border-radius: 20px;
+}
+
+    .prd-protfolio .item:hover {
+        box-shadow: 0 10px 45px rgba(82, 105, 119, 0.15);
+        border: 2px solid #e8cb2e;
+
+    }
+
+    .prd-protfolio .item .image {
+        width: 235px;
+        height: 235px;
+        margin: 0 auto;
+        display: block;
+    }
+
+    .prd-protfolio .item .image >a >img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+
+
+    .prd-protfolio .item .content h4 {
+        color: #3d464d;
+        font-size: 18px;
+        text-transform: capitalize;
+        margin-top: 8px;
+    }
+
+        .prd-protfolio .item .content h4 span {
+            text-transform: capitalize;
+            color: #e8cb2e;
+            font-size: 16px;
+        }
+
+
+    .prd-protfolio .item .content ul {
+        text-align: center;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        padding: 0;
+    }
+
+        .prd-protfolio .item .content ul li {
+            display: inline-block;
+            font-size: 14px;
+            margin: 0 3px;
+        }
+
+            .prd-protfolio .item .content ul li i {
+                color: #e8cb2e
+            }
+    .prd-protfolio .item .btn-default
+    {
+        margin-top: 0;
+        margin-bottom: 0;
+    }

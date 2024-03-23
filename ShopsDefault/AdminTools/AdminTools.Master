@@ -1,0 +1,42 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true"  CodeBehind="AdminTools.master.cs" Inherits="ShopsDefault.AdminTools.AdminTools" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <asp:ContentPlaceHolder ID="title" runat="server">
+    </asp:ContentPlaceHolder>
+    <link rel="icon" href="/AdminTools/images/icons8-technology-96.ico" type="image/x-icon" />
+    <link href="/AdminTools/css/fonts.css" rel="stylesheet" />
+    <link href="/AdminTools/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="/AdminTools/css/simple-line-icons.css" rel="stylesheet" />
+    <link href="/AdminTools/css/style.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="css" runat="server">
+    </asp:ContentPlaceHolder>
+    <script src="/AdminTools/js/jquery.min.js"></script>
+    <script src="/AdminTools/js/bootstrap.min.js"></script>
+    <script src="/AdminTools/js/custom-jquery.js"></script>
+</head>
+<body class="dark">
+    <form id="form1" runat="server">
+        <div class="mainpage-main">
+            <asp:ContentPlaceHolder ID="Header" runat="server">
+            </asp:ContentPlaceHolder>
+            <asp:ContentPlaceHolder ID="Banner_Slider" runat="server">
+            </asp:ContentPlaceHolder>
+            <div class="contain-main">
+                <asp:ContentPlaceHolder ID="Left" runat="server">
+                </asp:ContentPlaceHolder>
+                <asp:ContentPlaceHolder ID="ContentMain" runat="server">
+                </asp:ContentPlaceHolder>
+                <asp:ContentPlaceHolder ID="Right" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+            <asp:ContentPlaceHolder ID="Footer" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+    <asp:ContentPlaceHolder ID="js" runat="server">
+    </asp:ContentPlaceHolder>
+</body>
+</html>

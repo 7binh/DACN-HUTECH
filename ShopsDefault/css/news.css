@@ -1,0 +1,73 @@
+﻿.main-news .item {
+    background-color: #fdfdfd;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    overflow: hidden;
+    border: 1px solid #eee;
+    padding: 10px;
+}
+
+.main-news .item:hover {
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 8px 54px;
+    border: 2px solid #e8cb2e;
+
+}
+
+    .main-news .item .image {
+        width: 350px;
+        height: 350px;
+    }
+
+        .main-news .item .image > a > img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+    .main-news .item .content {
+        padding-left: 15px;
+        padding-right: 15px;
+        margin-bottom: 20px;
+        background-color: #fdfdfd;
+    }
+
+        .main-news .item .content .desc {
+            min-height: 65px;
+        }
+
+        .main-news .item .content .title {
+            display:-webkit-box;
+            -webkit-line-clamp:1;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            word-break: break-word;
+        }
+
+    .main-news .item .author {
+        border-top: 1px solid #ddd;
+        padding: 20px 15px;
+        display: flex;
+        position: relative;
+    }
+
+        .main-news .item .author .poster {
+            padding-right: 10px;
+            border-right: 1px solid #ddd;
+            color: #e8cb2e;
+        }
+
+        .main-news .item .author .date-post {
+            padding-left: 10px;
+        }
+
+        .main-news .item .author .read-more {
+            position: absolute;
+            right: 26px;
+        }
+
+            .main-news .item .author .read-more .btn-default {
+                margin: 0;
+                padding: 5px;
+                border: none;
+            }

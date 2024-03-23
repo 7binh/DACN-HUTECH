@@ -1,0 +1,405 @@
+D:\LapTrinh\Project\ShopsDefault\ShopsDefault\ShopsDefault\obj\Debug\ShopsDefault.csprojAssemblyReference.cache
+D:\LapTrinh\Project\ShopsDefault\ShopsDefault\ShopsDefault\obj\Debug\ShopsDefault.csproj.CoreCompileInputs.cache
+F:\ShopsDefault-20201205T115051Z-001\ShopsDefault\ShopsDefault\obj\Debug\ShopsDefault.csprojAssemblyReference.cache
+F:\ShopsDefault-20201205T115051Z-001\ShopsDefault\ShopsDefault\obj\Debug\ShopsDefault.csproj.CoreCompileInputs.cache
+F:\DoAnTotNghiep_ThueXeMay-22-01-2022\DoAnTotNghiep_ThueXeMay\ShopsDefault\obj\Debug\ShopsDefault.csprojAssemblyReference.cache
+F:\DoAnTotNghiep_ThueXeMay-22-01-2022\DoAnTotNghiep_ThueXeMay\ShopsDefault\obj\Debug\ShopsDefault.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\ShopsDefault.dll.config
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\ShopsDefault.dll
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\ShopsDefault.pdb
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\csc.exe
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\csc.exe.config
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\csc.rsp
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\csi.exe
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\csi.exe.config
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\csi.rsp
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\System.AppContext.dll
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\System.Console.dll
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\System.IO.Compression.dll
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\System.IO.Pipes.dll
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\System.Security.Claims.dll
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\System.ValueTuple.dll
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\System.Xml.XPath.dll
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\vbc.exe
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\vbc.exe.config
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\vbc.rsp
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\UrlRewritingNet.UrlRewriter.dll
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\obj\Debug\ShopsDefault.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\obj\Debug\ShopsDefault.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\obj\Debug\ShopsDefault.csproj.CopyComplete
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\obj\Debug\ShopsDefault.dll
+C:\Users\admin\Desktop\DoAnThueXeMay\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\obj\Debug\ShopsDefault.pdb
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\ShopsDefault.dll.config
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\ShopsDefault.dll
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\ShopsDefault.pdb
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\csc.exe
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\csc.exe.config
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\csc.rsp
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\csi.exe
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\csi.exe.config
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\csi.rsp
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.AppContext.dll
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Console.dll
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.IO.Compression.dll
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.IO.Pipes.dll
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Security.Claims.dll
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.ValueTuple.dll
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Xml.XPath.dll
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\vbc.exe
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\vbc.exe.config
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\vbc.rsp
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\UrlRewritingNet.UrlRewriter.dll
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\obj\Debug\ShopsDefault.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\obj\Debug\ShopsDefault.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\obj\Debug\ShopsDefault.csproj.CopyComplete
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\obj\Debug\ShopsDefault.dll
+C:\Users\admin\Desktop\DoAnCN\DoAn_Thuesanpham_LBT Tek\ShopsDefault\obj\Debug\ShopsDefault.pdb
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\ShopsDefault.dll.config
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\ShopsDefault.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\ShopsDefault.pdb
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\csc.exe
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\csc.exe.config
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\csc.rsp
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\csi.exe
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\csi.exe.config
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\csi.rsp
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.AppContext.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Console.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.IO.Compression.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.IO.Pipes.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Security.Claims.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.ValueTuple.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Xml.XPath.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\vbc.exe
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\vbc.exe.config
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\vbc.rsp
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\UrlRewritingNet.UrlRewriter.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\obj\Debug\ShopsDefault.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\obj\Debug\ShopsDefault.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\obj\Debug\ShopsDefault.csproj.CopyComplete
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\obj\Debug\ShopsDefault.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAn_Thuesanpham_LBT Tek\ShopsDefault\obj\Debug\ShopsDefault.pdb
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\ShopsDefault.dll.config
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\ShopsDefault.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\ShopsDefault.pdb
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\csc.exe
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\csc.exe.config
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\csc.rsp
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\csi.exe
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\csi.exe.config
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\csi.rsp
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.AppContext.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Console.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.IO.Compression.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.IO.Pipes.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Security.Claims.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.ValueTuple.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Xml.XPath.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\vbc.exe
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\vbc.exe.config
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\vbc.rsp
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\UrlRewritingNet.UrlRewriter.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\obj\Debug\ShopsDefault.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\obj\Debug\ShopsDefault.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\obj\Debug\ShopsDefault.csproj.CopyComplete
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\obj\Debug\ShopsDefault.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\obj\Debug\ShopsDefault.pdb
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\ShopsDefault.dll.config
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\ShopsDefault.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\ShopsDefault.pdb
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\csc.exe
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\csc.exe.config
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\csc.rsp
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\csi.exe
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\csi.exe.config
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\csi.rsp
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.AppContext.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Collections.Immutable.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Console.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.IO.Compression.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.IO.FileSystem.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.IO.Pipes.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Reflection.Metadata.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Security.AccessControl.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Security.Claims.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Security.Principal.Windows.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.ValueTuple.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Xml.XPath.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\vbc.exe
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\vbc.exe.config
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\vbc.rsp
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\VBCSCompiler.exe
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\VBCSCompiler.exe.config
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\UrlRewritingNet.UrlRewriter.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\obj\Debug\ShopsDefault.csproj.AssemblyReference.cache
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\obj\Debug\ShopsDefault.csproj.CoreCompileInputs.cache
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\obj\Debug\ShopsDefault.csproj.CopyComplete
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\obj\Debug\ShopsDefault.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\Backup\12_24112023\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\obj\Debug\ShopsDefault.pdb
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\ShopsDefault.dll.config
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\ShopsDefault.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\ShopsDefault.pdb
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\csc.exe
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\csc.exe.config
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\csc.rsp
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\csi.exe
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\csi.exe.config
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\csi.rsp
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.AppContext.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Console.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.IO.Compression.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.IO.Pipes.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Security.Claims.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.ValueTuple.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Xml.XPath.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\vbc.exe
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\vbc.exe.config
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\vbc.rsp
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\UrlRewritingNet.UrlRewriter.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\obj\Debug\ShopsDefault.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\obj\Debug\ShopsDefault.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\obj\Debug\ShopsDefault.csproj.CopyComplete
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\obj\Debug\ShopsDefault.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\DoAnChuyenNganh_Thuesanpham_LBT Tek\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\obj\Debug\ShopsDefault.pdb
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\ShopsDefault.dll.config
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\ShopsDefault.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\ShopsDefault.pdb
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\csc.exe
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\csc.exe.config
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\csc.rsp
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\csi.exe
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\csi.exe.config
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\csi.rsp
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.AppContext.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Console.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.IO.Compression.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.IO.Pipes.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Security.Claims.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.ValueTuple.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Xml.XPath.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\vbc.exe
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\vbc.exe.config
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\vbc.rsp
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\UrlRewritingNet.UrlRewriter.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\obj\Debug\ShopsDefault.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\obj\Debug\ShopsDefault.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\obj\Debug\ShopsDefault.csproj.CopyComplete
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\obj\Debug\ShopsDefault.dll
+C:\Users\admin\Desktop\Đồ Án Chuyên Ngành\Đồ Án Chuyên Ngành - Final\DoAnChuyenNganh_Thuesanpham_LBT Tek\ShopsDefault\obj\Debug\ShopsDefault.pdb

@@ -1,0 +1,98 @@
+﻿
+/*================================================
+Slider CSS
+==================================================*/
+.slider-main {
+    overflow: hidden;
+}
+
+    .slider-main .item {
+        background-color: #eee;
+        background-position: center center;
+        background-size: cover;
+        height: 640px;
+        border-radius: 30px;
+        overflow: hidden;
+        
+    }
+
+    .slider-main .slider-text {
+        width: 60%;
+        text-align: left;
+    }
+
+    .slider-main .item .caption-slider {
+        display: table;
+        height: 100%;
+        width: 100%;
+        background: rgba(0, 0, 0, 0.58) none repeat scroll 0 0;
+    }
+
+    .slider-main .item .caption-slider-cell {
+        display: table-cell;
+        vertical-align: middle;
+        text-align: left;
+    }
+
+    .slider-main .item .slider-text h2 {
+        color: #fff;
+        font-size: 65px;
+        font-weight: 500;
+        text-shadow: 1px 1px 1px rgba(0, 0, 0, .004);
+        text-transform: capitalize;
+        letter-spacing: 3px;
+        line-height: 1.2;
+        margin-bottom: 20px;
+    }
+
+    .slider-main .item .slider-text p {
+        color: #fff;
+        font-size: 26px;
+        letter-spacing: 2px;
+        margin-bottom: 15px;
+        text-transform: capitalize;
+    }
+
+    .slider-main .owl-nav > .owl-prev {
+        visibility: hidden;
+        -webkit-transition: all 0.2s cubic-bezier(.83, .8, .11, .64) 0s;
+        transition: all 0.2s cubic-bezier(.83, .8, .11, .64) 0s;
+        opacity: 0;
+    }
+
+    .slider-main:hover .owl-nav > .owl-prev {
+        visibility: visible;
+        opacity: 1;
+        left: 30px;
+    }
+
+    .slider-main .owl-nav > .owl-next {
+        visibility: hidden;
+        -webkit-transition: all 0.2s cubic-bezier(.83, .8, .11, .64) 0s;
+        transition: all 0.2s cubic-bezier(.83, .8, .11, .64) 0s;
+        opacity: 0;
+    }
+
+    .slider-main:hover .owl-nav > .owl-next {
+        visibility: visible;
+        opacity: 1;
+        right: 30px;
+        border: none;
+        outline: none;
+    }
+
+    .slider-main .owl-prev {
+        left: -30px;
+        position: absolute;
+        top: 45%;
+    }
+
+    .slider-main .owl-next {
+        right: -30px;
+        position: absolute;
+        top: 45%;
+    }
+
+    .slider-main .btn-default {
+        color: #fff;
+    }
